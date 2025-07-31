@@ -5,7 +5,8 @@
   },
   "semantic-web": {
     "prefixes": [
-      { "alias": "lpn", "uri":  "http://knowrob.org/kb/lpn" }
+      { "alias": "lpn", "uri":  "http://knowrob.org/kb/lpn" },
+      { "alias": "suturo", "uri": "http://www.ease-crc.org/ont/SUTURO.owl#" }
     ]
   },
   "data-sources": [
