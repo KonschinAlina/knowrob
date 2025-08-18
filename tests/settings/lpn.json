@@ -28,7 +28,7 @@
       "data-backend": "pl",
       "imports": [
         {
-          "path": "tests/prolog/has_property.pl",
+          "path": "tests/prolog/lpn.pl",
           "format": "prolog"
         }
       ]
